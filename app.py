@@ -140,6 +140,3 @@ st.subheader("📜 ESP32 Firmware Code")
 st.code(esp32_code, language="cpp")
 
 st.markdown("---")
-st.markdown(
-    "✅ **Tip:** You can copy this code directly into the Arduino IDE or PlatformIO."
-)
