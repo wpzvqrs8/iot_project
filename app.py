@@ -21,8 +21,8 @@ esp32_code = r'''
 
 /* ================= WIFI ================= */
 
-const char* ssid = "Zala";
-const char* password = "88888888";
+const char* ssid = "name";
+const char* password = "pass";
 
 /* ================= PINS ================= */
 #define TRIG_PIN 5
